@@ -9,7 +9,7 @@
 3. A product quantity of 0 indicates it references a service.
 4. A transaction status may have one of the following values : Confirmed, Concelled, Pending
 
-# Imoortant : Before using the script "data_generation.py"
+# Important : Before using the script "data_generation.py"
 
  - The .env file must be at the root directory of this project
  - All the variables in the .env file are mandatory 

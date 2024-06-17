@@ -1,0 +1,7 @@
+2024-04-24 16:13:04,839 - INFO - Reading the mandatory configuration values required for data generation
+2024-04-24 16:13:04,839 - INFO - Start generating the products list
+2024-04-24 16:13:04,839 - INFO - 50 products were generated, where 2 are services
+2024-04-24 16:13:04,839 - INFO - Start generating the transactional data
+2024-04-24 16:13:04,839 - INFO - 75 transactions were generated
+2024-04-24 16:13:04,839 - INFO - Saving the data into CSV file
+2024-04-24 16:13:04,852 - INFO - End of operations
